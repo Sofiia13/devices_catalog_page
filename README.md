@@ -42,8 +42,6 @@ To run the catalog page locally:
    npm start
    ```
 
-4. **Open index.html in your browser if no build system is used.**
-
 ## ✨ Features
 
 - 🖱️ **Fully interactive UI** – Every product card, button, and link responds to clicks and hovers.
